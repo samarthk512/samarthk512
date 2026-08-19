@@ -1,6 +1,10 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+%26+Python+Developer;Building+RAG+systems+and+data+tools;Engineering+Science+%40+TUHH;Currently+at+Danfoss%2C+Hamburg" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://samarthkajlaportfolio.vercel.app/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vercel.svg" height="30" style="display:inline-block;" />
   </a>
@@ -58,12 +62,17 @@
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 
+![Samarth's github streak](https://streak-stats.demolab.com?user=samarthk512&theme=dark&mode=weekly)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samarthk512&show_icons=true&theme=dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthk512&layout=compact&theme=dark&hide_border=true" height="165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samarthk512&theme=github-dark&hide_border=true&area=true" width="95%" />
 </p>
 
-![Samarth's github streak](https://streak-stats.demolab.com?user=samarthk512&theme=dark&mode=weekly)
+### 🐍 Watch the snake eat my contributions:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samarthk512/samarthk512/output/snake-dark.svg" width="95%" />
+</p>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
